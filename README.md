@@ -48,6 +48,7 @@ The states of Montana and New Mexico experienced the longest delay times in 2014
 ![Image](https://github.com/user-attachments/assets/e2adefca-eea2-449b-b182-db6ce28b6105)
 
 **Customer analysis**
+
 Repeat customers make up approximately 70% of Pinnacle's customer base and more than 80% of customers are either repeat customers or Loyalty Program members. 44% of customers are however repeat customers but not members of the Loyalty Program.
 Order volume is relatively similar across weekdays, with lower order volumes on weekends, A much lower order volume is observed on Sundays. 
 The largest proportion of customers are within the 24 to 35 age range with 64% of total orders made from customers in California.
