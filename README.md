@@ -27,16 +27,19 @@ Below is the overview page from the PowerBI dashboard and more examples are incl
 ![Image](https://github.com/user-attachments/assets/c46a666b-ab84-47f7-9dd3-7c7d7bc756e8)
 
 **Sales trends**
+
 A cyclical trend is observed over the analyzed period, with the highest sales made in Q4 of each year and the lowest sales in Q1 or Q2 of each year.
 However in Q3 of 2012, the company experienced a 33% YoY decline in sales while Q1 of 2014 saw an exceptional 111% YoY increase in sales, marking the highest growth spike across all quarters analyzed. Sales in Paper products were the main driver of this sharp increase.
 
 **Product Performance**
+
 In Q1 of 2014, the Paper category showed the greatest sales increase, with YOY growth of 2642%. Sales growth in this category however declined in Q2 but recovered to 478% in Q3. Growth in other categories were not as notable,  
 The single product achieving the greatest sales and profit in 2014 was Xerox 1898, with $14225 in sales and $6801 in profit. Other high-performing products in this year included Letter Size Cart and Anker Astro Mini 3000mAh Ultra-Compact Portable Charger. 
 
 ![Image](https://github.com/user-attachments/assets/1364438b-97e4-43d1-b81c-40f01a8c3edf)
 
 **Shipping Delay**
+
 Overall, the longest delay times were seen in Storage, Labels and Appliances categories (4.3 days on average). However in 2014, the highest delay was seen in Supplies category products (5.4 days on average).
 In 2014, 72 products (7% of products) had an average shipping delay of 6 days or longer. These products accounted for $46123 in sales (18% of sales).
 In previous years, Q2 or Q3 typically saw the greatest shipping delays, however in 2014, the greatest delays were observed in Q1 and Q4.
