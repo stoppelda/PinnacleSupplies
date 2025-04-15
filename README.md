@@ -1,4 +1,4 @@
-# PinnacleSupplies
+# Pinnacle Supplies
 
 ### Project background and overview
 Pinnacle Supplies is a US-based company, specializing in office supplies and furniture. This project analyzed the data collected for the years 2011 to 2014 in order to uncover critical insights that will improve Pinnacle Supplies' commercial success.
