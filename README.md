@@ -11,7 +11,6 @@ Insights and recommendations are provided on the following key areas:
 
 Recommendations will be used by the marketing team to better allocate resources, as well as by management to adjust shipping strategies, improve logistics efficiency, and reduce delivery delays.
 
-An interactive PowerBI dashboard can be downloaded here.
 
 ### Data structure overview
 Pinnacle Supplies' database structure as seen below consist of three tables: Sales, Customer and Product with a total row count of 6425.
@@ -23,7 +22,7 @@ Pinnacle Supplies' database structure as seen below consist of three tables: Sal
 **Overview of Findings**
 
 Overall, the company's sales demonstrated an upward trajectory, with positive year-over-year (YoY) growth observed in most quarters. In 2014, All Key Prformance Indicators (KPIs) showed positive growth: sales (34%), order volume (37%) and AOV (4%). The rate of growth of AOV however slowed from 7% in 2013 to 4% in 2014.
-Below is the overview page from the PowerBI dashboard and more examples are included throughout the report. The entire interactive dashboard can be downloaded here>
+Below is the overview page from the PowerBI dashboard and more examples are included throughout the report. 
 
 ![Image](https://github.com/user-attachments/assets/c46a666b-ab84-47f7-9dd3-7c7d7bc756e8)
 
