@@ -24,7 +24,7 @@ Pinnacle Supplies' database structure as seen below consist of three tables: Sal
 Overall, the company's sales demonstrated an upward trajectory, with positive year-over-year (YoY) growth observed in most quarters. In 2014, All Key Prformance Indicators (KPIs) showed positive growth: sales (34%), order volume (37%) and AOV (4%). The rate of growth of AOV however slowed from 7% in 2013 to 4% in 2014.
 Below is the overview page from the PowerBI dashboard and more examples are included throughout the report. 
 
-![Image](https://github.com/user-attachments/assets/c46a666b-ab84-47f7-9dd3-7c7d7bc756e8)
+![Image](Dashboard screenshots/Pinnacle Supplies Sales Analysis.jpg)
 
 **Sales trends**
 
